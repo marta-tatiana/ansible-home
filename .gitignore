@@ -1,2 +1,5 @@
-*swp
 .idea/
+*swp
+
+# Ansible
+*.retry

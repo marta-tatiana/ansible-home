@@ -1,7 +1,9 @@
-- name: Install npm how2 module, a command line search engine for StackOverflow
+---
+- name: Install npm global modules
   npm: >
     name={{ item }}
     global=yes
     state=latest
   with_items:
     - how2
+    - npm-check-updates

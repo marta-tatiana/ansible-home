@@ -6,4 +6,4 @@
 
   roles:
     - npm
-    - npm_how2
+    - npm_global_modules
