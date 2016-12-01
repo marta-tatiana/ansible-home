@@ -1,0 +1,9 @@
+---
+- name: Ubuntu provisioner
+  gather_facts: false
+  hosts: localhost
+  become: yes
+
+  roles:
+    - npm
+    - npm_how2

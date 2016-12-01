@@ -1,5 +1,4 @@
 ---
-
 temp_dir: /tmp                      # temporary dir for downoaded files
 user: andrzej                       # your user
 group: andrzej                      # your user's primary group

@@ -1,0 +1,3 @@
+---
+- include: npm_installer.yml
+  tags: npm
