@@ -1,0 +1,15 @@
+---
+
+temp_dir: /tmp                      # temporary dir for downoaded files
+user: andrzej                       # your user
+group: andrzej                      # your user's primary group
+home_dir: /home/andrzej             # your user's homedir
+local_soft_dir: /home/andrzej/soft  # where to save local installations of software
+
+git:
+    username: Andrzej Rehmann
+    email: andrzej.rehmann@gmail.com
+
+sys:
+  vm:
+    swappiness: 10
