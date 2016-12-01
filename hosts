@@ -1,0 +1,3 @@
+[local]
+ubuntu ansible_ssh_host=localhost 
+
