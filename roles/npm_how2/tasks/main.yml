@@ -1,4 +1,4 @@
 ---
--include: npm_how2.yml
- tags:
-   -npm-how2
+- include: npm_how2.yml
+  tags:
+  - npm_how2
